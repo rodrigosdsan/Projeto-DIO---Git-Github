@@ -1,0 +1,6 @@
+Comandos do Terminal
+
+ls = Lista pastas do diretório.
+ls -a = Lista pastas ocultas do diretório.
+Ctrl l = Limpa o terminal.
+mv nome do arquivo ou pasta de origem ./ nome do arquivo ou pasta de destino = move um arquivo de uma pasta para outra.
